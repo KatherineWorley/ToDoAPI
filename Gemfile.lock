@@ -174,7 +174,7 @@ DEPENDENCIES
   puma (~> 3.11)
   rails (~> 5.2.0)
   rspec-rails (~> 3.5)
-  shoulda (~> 3.5)
+  shoulda
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
